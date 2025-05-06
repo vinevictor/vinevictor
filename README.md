@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
+
 <!--
 **vinevictor/vinevictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
