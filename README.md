@@ -1,4 +1,6 @@
-## Hi there 👋
+## Vine, 👋
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,nest,github,postgres" />
