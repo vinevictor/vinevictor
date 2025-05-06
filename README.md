@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,express,nest,docker,github,linux,postman,postgres" />
+  <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,nest,github,postgres" />
 </a>
   <br />
 
