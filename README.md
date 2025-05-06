@@ -5,6 +5,10 @@
 </a>
   <br />
 
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+
 <!--
 **vinevictor/vinevictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
