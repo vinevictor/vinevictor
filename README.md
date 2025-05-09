@@ -1,11 +1,11 @@
 ## Vine, 👋
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,nest,github,postgres" />
 </a>
   <br />
-![Status](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 <!--
 **vinevictor/vinevictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
